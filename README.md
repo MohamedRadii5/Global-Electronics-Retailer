@@ -38,8 +38,7 @@ This repository contains the architecture, layout layout schema, and data assets
 │           ├── search3532882...png     # Transaction query assets
 │           └── customer00790...png     # Client demographics & distribution indices
 └── Connections                          # Gateway configuration and active queries
-
-
+```
 ---
 
 ## 🚀 Key Functional Modules

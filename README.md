@@ -15,6 +15,9 @@ This repository contains the architecture, layout layout schema, and data assets
 ---
 
 ## 📂 Layout Repository Structure
+## 📂 Layout Repository Structure
+
+```text
 ├── [Content_Types].xml                  # Core document metadata and structural mapping
 ├── DiagramLayout                        # Visual relational entity relationship structural definitions
 ├── Report/

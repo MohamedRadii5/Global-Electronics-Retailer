@@ -14,7 +14,7 @@ This repository contains the architecture, layout layout schema, and data assets
 
 ---
 
-## 📂 Layout Repository Structure
+
 ## 📂 Layout Repository Structure
 
 ```text
